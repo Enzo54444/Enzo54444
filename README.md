@@ -1,8 +1,13 @@
-### Hey my name is Enzo 👋
+## Hey my name is Enzo 👋
 
 ### • 🌱 | I’m currently learning JavaScript, Svelte
 
 ### • 📫 | How to reach me: enzo.tomasso.sio@gmail.com
+
+# <strong>Languages and Tools:</strong>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;">
+     
 <!--
 **Enzo54444/Enzo54444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
