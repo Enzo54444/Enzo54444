@@ -2,7 +2,7 @@
 
 ### • 🌱 | I’m currently learning JavaScript, Svelte
 
-### • | 📫 How to reach me: enzo.tomasso.sio@gmail.com
+### • 📫 | How to reach me: enzo.tomasso.sio@gmail.com
 <!--
 **Enzo54444/Enzo54444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
